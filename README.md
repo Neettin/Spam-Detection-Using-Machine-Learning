@@ -12,7 +12,6 @@ A machine learning-powered spam detection system that classifies SMS or email me
 - [Usage](#usage)
 - [Features](#features)
 - [Results](#results)
-- [License](#license)
 - [Author](#author)
 - [Acknowledgements](#acknowledgements)
 
@@ -81,10 +80,6 @@ This prototype demonstrates a text classification model that accurately identifi
 - Suitable for integration into SMS/email platforms
 
 - Fast and efficient prediction using saved models
-
-## 📄 License
-
-This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 **Nitin Gutpa**
